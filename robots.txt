@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /reviews
+Disallow: /cdn/
+Disallow: /cdn-gi/
+Disallow: /u/
+
+Sitemap: https://fuckcactusfire.xyz/sitemap.xml

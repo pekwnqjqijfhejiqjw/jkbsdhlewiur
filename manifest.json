@@ -1,0 +1,9 @@
+{
+    "name": "CactusFire - The Ultimate Discord Bot",
+    "short_name": "CactusFire",
+    "theme_color": "#3ba55c",
+    "background_color": "#3BA55C",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/"
+}
